@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"\"use strict\";\n\nfunction setup() {\n  createCanvas(window.innerWidth, window.innerHeight);\n  background(0);\n}\n\nfunction draw() {}"},"hash":"e55200b3351475c3ebbcd5d3f638e9bc"}
